@@ -1,0 +1,1 @@
+Android project to facilitate the transfer of information to and fro Arduino and Android apps via Bluetooth
